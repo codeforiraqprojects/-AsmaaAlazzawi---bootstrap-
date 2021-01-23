@@ -1,0 +1,356 @@
+/* upper */
+
+
+
+.upper-bar{
+    background-color: #000066;
+    color: #ffffff;
+    
+    padding: 10px ;
+    
+    
+}
+
+
+ /* end upper */
+
+
+
+
+
+
+
+
+
+/* navbar */
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000066;
+    font-size: 20px;
+    
+    font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    background-color: #eff3f7;
+    color: #ed1d24;
+}
+
+ .navbar-light .navbar-nav .active>.nav-link { 
+    color:#ed1d24 !important 
+ } 
+
+  /* end navbar */ 
+
+
+  
+
+
+
+
+ /* header */
+
+.home{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+ 
+
+   
+
+    
+
+/* end header */
+
+
+
+
+
+
+
+
+/* start section veiw */
+#myveiw{
+
+padding-top:  110px;
+background-color:#ecf0f1 ;
+padding-bottom: 50px;
+
+
+}
+
+
+.myveiw h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.myveiw p{
+    line-height: 2;
+    font-size: 19px;
+    
+}
+.mylist{
+    list-style-type: none;
+}
+
+.mylist.h3,h3{
+    margin-bottom: .3rem;
+    font-size: 1.6rem;
+    color: #000066;
+    text-align: center;
+}
+
+/* end section veiw */
+
+
+
+
+
+
+ /* start list.html */
+
+.myveiw{
+
+    padding-top: 50px;
+    background-color:#ecf0f1;
+    padding-bottom: 70px;
+    }
+
+
+ /* end list.html */
+
+
+
+
+
+
+
+ /* start section trip */
+#mytrip{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+#mytrip h2{
+    margin-bottom: 80px;
+}    
+
+.myimag{
+    
+        vertical-align: middle;
+        border-style: none;
+        margin-left: 60px;
+        width:60%;
+    }
+/* .myimag.h3,h3{
+        margin-bottom: .3rem;
+        font-size: 1.6rem;
+        color: #000066;
+        text-align: right;
+    } */
+
+    .myread{
+        margin-top: 0;
+        margin-bottom: 1rem;
+        font-size:20px;
+        margin-right:50px;
+    }
+ /* end section trip */
+
+
+
+
+
+
+
+
+
+
+
+/* start section map */
+#mymap{
+    padding-top:  50px;
+    background-color: #ecf0f1;
+    padding-bottom: 90px;
+}
+    
+#mymap h2{
+    margin-bottom: 70px;
+
+}
+.myline{
+
+    padding: 0;
+    margin: 0;
+}
+ 
+.row-photo{
+    margin: 0;
+    padding: o;
+}
+
+ .myphoto{ 
+    margin: 0;
+    padding: 0;
+} 
+.row-picture{
+    margin: 0;
+    padding: 0;
+}
+.col-picture{
+    margin: 0;
+    padding: 0;
+} 
+
+
+
+ 
+
+
+ /* end section map */
+
+
+
+
+
+
+
+
+
+/* start mysection connect us */
+
+#contact{
+    
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+
+}
+.myrow{
+    background-color: #000066;
+    padding-left: 0;
+    padding-right: 0;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    
+    
+}
+
+
+ .myimg{
+     
+     
+     padding-left: 0;
+     padding-right: 0;
+     margin-left: 0;
+     margin-right: 0;
+     margin-bottom: 0;
+     padding-bottom: 0;
+     
+ }
+
+ .mycol{
+     
+     padding-left: 0;
+     padding-right: 0;
+     
+     margin-right: 0;
+     margin-left: 0;
+     padding-bottom: 0;
+     margin-bottom: 0;
+    
+    background-color: #000066; 
+    
+} 
+
+
+.mytitle {
+    padding-top: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+
+.mystory{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    line-height:1.5;
+    font-size: 18px;
+    text-align: center;
+    
+   
+    
+}
+
+
+
+.myteam{
+    background-color: #ecf0f1;
+   
+    text-align: center;
+    
+    font-weight: bold;
+    font-size: 1.4rem;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 30px;
+    padding-bottom: 110px;
+    margin: 0;
+
+}
+.myteam .h5, h5 { 
+    
+        font-size: 1.4rem;
+        font-weight: 1000;
+    
+}
+.row-team{
+    background-color:#ecf0f1;
+    padding-top: 50px;
+   padding-left: 0;
+   padding-right: 0;
+   padding-bottom: 0;
+    margin: 0;
+}
+
+
+.img-fluid{
+    width: 300px;
+    height: 300px;
+    border: 4.6px solid   #ed1d24;
+}
+
+/* end contact */
+
+
+/* start footer */
+
+
+.footer{
+    
+    background-color: #e1e4e6;
+    padding-top:50px;
+    padding-bottom: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0;
+
+}
+a.mylink:hover {
+color: #ed1d24;
+}
+
+
+/* end footer */
+
+
+
+
+
+
+
+
+
+
